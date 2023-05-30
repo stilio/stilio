@@ -4,5 +4,7 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=stilio&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true"/>
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=stilio&theme=onedark&hide_border=true" />
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stilio&layout=compact&theme=onedark&hide_border=true"/>
+    <br>
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwww.stilio.xyz%2F"/>
    </p>
 </div>
