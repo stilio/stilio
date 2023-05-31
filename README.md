@@ -28,6 +28,7 @@
     <br>
     * Mouse: Steelseries Rival 3 Wireless<br>
     * Keyboard: GK61 - Yellow Switches - Heavily Modded<br>
+    * Drawing Tablet: Huion H420<br>
     * Monitor: Acer - 75hz 1920x1080<br>
     * Monitor 2: Acer - 75hz 1920x1080
     </details>
