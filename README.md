@@ -7,16 +7,6 @@
     <br>
     <a href="https://www.stilio.xyz/"><img alt="website status" src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwww.stilio.xyz%2F"/>
     <br>
-    <details open>
-    <summary>3D Printer</summary>
-    <br>
-    <img src="https://img.shields.io/badge/-Photoshop-31a8ff?logo=adobe-photoshop&logoColor=white&style=flat"/>
-    * Mouse: Steelseries Rival 3 Wireless<br>
-    * Keyboard: GK61 - Yellow Switches - Heavily Modded<br>
-    * Drawing Tablet: Huion H420<br>
-    * Monitor: Acer - 75hz 1920x1080<br>
-    * Monitor 2: Acer - 75hz 1920x1080
-    </details>
     <details>
     <summary>Programs I use:</summary>
     <br>
